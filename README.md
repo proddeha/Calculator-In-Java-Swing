@@ -3,6 +3,9 @@
 ## Overview
 
 Calculator is a Java application developed to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. This project demonstrates the use of Java for building a simple yet functional desktop application.
+ This Project was in my 2 first months into Java!
+
+![image](https://github.com/proddeha/Calculator-In-Java-Swing/assets/119131830/67c5281d-8209-4001-9f20-415404083dc3)
 
 ## Features
 
