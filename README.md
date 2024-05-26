@@ -17,7 +17,7 @@ Calculator is a Java application developed to perform basic arithmetic operation
 
 - **Programming Language:** Java
 - **Frameworks and Libraries:** Swing for GUI
-- **Tools:** IntelliJ IDEA or Eclipse, Git
+- **Tools:** Apache NetBeans
 
 ## Installation
 
