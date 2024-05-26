@@ -52,10 +52,7 @@ Calculator is a Java application developed to perform basic arithmetic operation
 4. Push to the branch (`git push origin feature-branch`).
 5. Create a Pull Request.
 
-## License
-
-[Specify the license under which the project is distributed, e.g., MIT License. Provide a link to the LICENSE file if necessary.]
 
 ## Contact
 
-For any questions or inquiries, please contact [Your Name] at [your email address].
+For any questions or inquiries, please contact [Your Name] at [kwstas.koulai@yahoo.com].
