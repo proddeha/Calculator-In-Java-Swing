@@ -27,7 +27,7 @@ Calculator is a Java application developed to perform basic arithmetic operation
 1. Clone the repository:
     ```bash
     git clone https://github.com/proddeha/Calculator-In-Java-Swing.git
-    cd Calculator
+    cd Calculator-In-Java-Swing
     ```
 
 2. Open the project in your preferred Java IDE (e.g., IntelliJ IDEA or Eclipse).
